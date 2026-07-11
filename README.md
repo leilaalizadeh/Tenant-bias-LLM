@@ -2,7 +2,6 @@
 
 Investigating whether LLMs discriminate against rental applicants in Turin based on **gender** or **national background**, while varying legitimate factors (income, employment, family situation).
 
-**Repository:** https://github.com/Sam9875/Tenant-bias-LLM  
 **Results dashboard:** open [`docs/index.html`](docs/index.html) in a browser (no API keys needed).
 
 ## Experiment summary
